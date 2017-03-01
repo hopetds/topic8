@@ -3,7 +3,7 @@
 <head>
 <title>JSP Test</title>
 <%!
-String message = "Hello, World. 1st commit by ilya_khamiakou <br /> 2d commit";
+String message = "Hello, World. 1st commit by ilya_khamiakou <br /> 2d commit <br /> 3d commit! Success!";
 %>
 </head>
 <body>
